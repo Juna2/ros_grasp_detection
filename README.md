@@ -32,3 +32,12 @@
 
 
 - **One Thing you should know is that this test.py uses the model trained by modified robot-grasp-detection which is Juna2/grasp_detection.**
+
+
+
+## sample
+
+<img src=./src/image/example/bbox0.jpg width="30%">
+<img src=./src/image/example/bbox1.jpg width="30%">
+<img src=./src/image/example/bbox2.jpg width="30%">
+<img src=./src/image/example/bbox3.jpg width="30%">
