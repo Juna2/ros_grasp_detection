@@ -3,7 +3,7 @@
 
 - Use grasp_detection for training model. This is for test.
 <br />
-**grasp_detection** Link : https://github.com/Juna2/grasp_detection
+*grasp_detection* Link : https://github.com/Juna2/grasp_detection
 
 - Most of the files in this repo is from his work except test.py
 
